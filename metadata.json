@@ -1,0 +1,6 @@
+{
+  "name": "인생2막 평생현역 어드벤처 가이드",
+  "description": "퇴직예정자 및 중장년층을 위한 AI 대화형 생애설계 및 어드벤처 가이드 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
